@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robomotic-tokens/static/css/main.6f28c861.css",
+    "main.js": "/robomotic-tokens/static/js/main.3cb3c8a4.js",
+    "static/js/787.a3074f3f.chunk.js": "/robomotic-tokens/static/js/787.a3074f3f.chunk.js",
+    "index.html": "/robomotic-tokens/index.html",
+    "main.6f28c861.css.map": "/robomotic-tokens/static/css/main.6f28c861.css.map",
+    "main.3cb3c8a4.js.map": "/robomotic-tokens/static/js/main.3cb3c8a4.js.map",
+    "787.a3074f3f.chunk.js.map": "/robomotic-tokens/static/js/787.a3074f3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f28c861.css",
+    "static/js/main.3cb3c8a4.js"
+  ]
+}
