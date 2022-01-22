@@ -30,7 +30,7 @@ class App extends Component {
     const filteredRobots = robots.filter(robot => robot.name.toLowerCase().includes(searchField.toLowerCase()));
     return (
       <div className="App">
-        <h1>Robomatic Token</h1>
+        <h1>Robomotic Token</h1>
         <SearchBox 
           placeholder='search robots' 
           handleChange={e => this.setState({ searchField: e.target.value})}
