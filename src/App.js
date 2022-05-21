@@ -35,9 +35,18 @@ class App extends Component {
     const { robots, searchField} = this.state;
     const filteredRobots = robots.filter(robot => robot.name.toLowerCase().includes(searchField.toLowerCase()));
     return (
+<<<<<<< HEAD
       <div className= 'App'>
         <h1>Robomatic Tokens</h1>
         <SearchBox onSearchChange={this.onSearchChange} /> 
+=======
+      <div className="App">
+        <h1>Robomotic Token</h1>
+        <SearchBox 
+          placeholder='search robots' 
+          handleChange={e => this.setState({ searchField: e.target.value})}
+        /> 
+>>>>>>> 8d770b11b0e82020e2533da69498f63d3352988d
         <CardList robots={filteredRobots}/>
       </div>
     );
