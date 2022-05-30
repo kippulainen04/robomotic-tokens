@@ -3,7 +3,7 @@ import './card-list.style.css';
 import { Monster } from '../../App'
 
 type CardListProps = { 
-  monsters: Monster
+  monsters: Monster[];
  }
 
 const CardList = ({ monsters }: CardListProps) => (
