@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/robomotic-tokens/static/css/main.6899778e.css",
-    "main.js": "/robomotic-tokens/static/js/main.41af9b33.js",
+    "main.js": "/robomotic-tokens/static/js/main.8372c18d.js",
+    "service-worker.js": "/robomotic-tokens/service-worker.js",
     "index.html": "/robomotic-tokens/index.html",
     "main.6899778e.css.map": "/robomotic-tokens/static/css/main.6899778e.css.map",
-    "main.41af9b33.js.map": "/robomotic-tokens/static/js/main.41af9b33.js.map"
+    "main.8372c18d.js.map": "/robomotic-tokens/static/js/main.8372c18d.js.map"
   },
   "entrypoints": [
     "static/css/main.6899778e.css",
-    "static/js/main.41af9b33.js"
+    "static/js/main.8372c18d.js"
   ]
 }
